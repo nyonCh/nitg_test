@@ -1,2 +1,2 @@
 # nitg_test
-primer repositorio
+Primer repositorio, para realizar pruebas de los sistemas desarrollados por NITG 
