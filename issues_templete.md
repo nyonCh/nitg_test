@@ -1,3 +1,4 @@
-## descripcion del problema
+## Descripcion del problema
 descripcioon del problema
-## pasos para replicar el error 
+## Pasos para replicar el error 
+indicar los pasos que se hicieron para para el problema.
