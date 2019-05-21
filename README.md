@@ -1,2 +1,2 @@
 # nitg_test
-primer repositoria
+primer repositorio
